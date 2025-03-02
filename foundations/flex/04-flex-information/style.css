@@ -24,3 +24,22 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Changes */
+
+ .fruit-cards{
+  display:flex;
+  justify-content: center;
+  gap: 52px;
+  padding-top: 32px;
+
+ }
+
+.info{
+max-width: 200px;
+}
+
+
+body {
+ text-align: center;
+}
